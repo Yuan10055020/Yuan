@@ -12,7 +12,7 @@
 <title>社内統合管理システム</title>
 <style>
 h1 {
-	text-align: center; /* 將文本置中 */
+	text-align: center; /* 將文本置中 OAO*/
 }
 
 .box {
